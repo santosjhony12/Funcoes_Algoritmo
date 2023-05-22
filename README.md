@@ -59,12 +59,12 @@ Prioridade | Sprint | Item | Status
 :------: | :------: | --- | :------: 
 Alta|	<a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint2/README.md">2</a>|	Avaliação 360º|	Finalizada ✅
 Média|	<a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint2/README.md">2</a>|	Autenticação de Usuário|	Finalizada ✅
-Média|	<a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint3/README.md">3</a>|	Acesso de Usuários às Avaliações|	Finalizada ✅
-Média| <a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint3/README.md">3</a>|	Cadastro de Usuários|	Finalizada ✅
-Alta|	<a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint3/README.md">3</a>|	Gerenciamento de Sprints|	Finalizada ✅
-Alta|	<a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint3/README.md">3</a>|	Gerenciamento de Times|	Finalizada ✅
-Alta|	<a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint3/README.md">3</a>|	Gerenciamento de Turmas|	Finalizada ✅
-Média|	<a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint3/README.md">3</a>|	Gerenciamento das Solicitações de Adesão|	Finalizada ✅
+Média|	<a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint3/Sprint_3.md">3</a>|	Acesso de Usuários às Avaliações|	Finalizada ✅
+Média| <a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint3/Sprint_3.md">3</a>|	Cadastro de Usuários|	Finalizada ✅
+Alta|	<a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint3/Sprint_3.md">3</a>|	Gerenciamento de Sprints|	Finalizada ✅
+Alta|	<a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint3/Sprint_3.md">3</a>|	Gerenciamento de Times|	Finalizada ✅
+Alta|	<a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint3/Sprint_3.md">3</a>|	Gerenciamento de Turmas|	Finalizada ✅
+Média|	<a href="https://github.com/AndreMeneses0103/API_1_SEMESTRE/blob/main/Sprint3/Sprint_3.md">3</a>|	Gerenciamento das Solicitações de Adesão|	Finalizada ✅
 Alta| 4| Dashboard Gerencial e Operacional| A fazer    
 Média| 4| Controle de Usuários | A Fazer    
 Baixa|	4|  Redefinição de Senhas|	A fazer
