@@ -52,8 +52,8 @@ Raul José Batista Neto |Desenvolvedor|[<img src="https://camo.githubusercontent
 Vinicius Domingues Mangaba |Desenvolvedor|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/viniciusmangaba)
 
 
-# <h1 align=center>Sobre a Aplicação <h1/>  
-<h2>BACKLOG DO PRODUTO 📌</h2>
+# <h2 align=center>Sobre a Aplicação </h2>  
+<h2>Backlog do Produto 📌</h2>
  
 Prioridade | Sprint | Item | Status
 :------: | :------: | --- | :------: 
@@ -69,21 +69,16 @@ Alta| 4| Dashboard Gerencial e Operacional| A fazer
 Média| 4| Controle de Usuários | A Fazer    
 Baixa|	4|  Redefinição de Senhas|	A fazer
 
-# <h2 align="center">Ferramentas Utilizadas 🛠</h2>
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=10%/>
-
+# <h2>Ferramentas e Tecnologias Utilizadas 🛠</h2>
+ <div style="display:flex">
+<img align="center" alt="amanda-py" heigth="30" width="40" sticky="s" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" alt"JSON" height="30" width"40" src="https://user-images.githubusercontent.com/111203231/233870200-deb22a10-a7e3-4d06-9d31-63ae0354aad0.png">
+<img align="center" alt="amanda-py" heigth="30" width="40" sticky="s" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="amanda-py" heigth="30" width="40" sticky="s" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
+<img align="center" alt="amanda-py" heigth="30" width="40" sticky="s" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+<img align="center" alt="Discord" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1-2048x2048.png" /><br><br>
+</div>
   
-- Python<img align="center" alt="amanda-py" heigth="30" width="40" sticky="s" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-- JSON <img align="center" alt="amanda-py" heigth="30" width="40" sticky="s" src="https://icons8.com.br/icon/6or30FVdPylJ/json-(javascript-object-notation)-is-a-lightweight-data-interchange-format" />
-- CustomTkinter
-- Matplotlib 
-- Notion
-- Discord
-- Diagrams.net
-- Git <img align="center" alt="amanda-py" heigth="30" width="40" sticky="s" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-- Github <img align="center" alt="amanda-py" heigth="30" width="40" sticky="s" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-- Canva (Protótipo) <img align="center" alt="amanda-py" heigth="30" width="40" sticky="s" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-- Excel (Demonstração dashboard)
-- Scrum (Metodologia)
-- Kanban (Ferramenta)
+- Notion (Ferramenta)
+- CustomTkinter (Biblioteca)
+- Matplotlib (Biblioteca)
